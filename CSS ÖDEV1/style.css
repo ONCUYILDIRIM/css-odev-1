@@ -1,0 +1,6 @@
+body{ background-color: beige;}
+h1{font-family:monospace; font-style:normal;font-size:xx-large; color:aqua; border: 1rem solid red; padding: 30px;margin: 50px;}
+h2{font-family:monospace; font-style:normal;font-size:x-large;color: aqua; border: 1rem solid red;padding: 30px;margin: 50px;}
+p{ font-family:monospace; font-style:normal;color: black;border: 1rem solid yellow;padding: 30px; margin: 50px;}
+ul{font-family:monospace; font-style:normal;border: 1rem solid blue;padding: 30px; margin:50px;}
+ol{font-family:monospace; font-style:normal;color: black;border: 1rem solid yellow;padding: 30px; margin: 50px;}
